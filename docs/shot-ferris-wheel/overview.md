@@ -42,4 +42,4 @@ https://gist.github.com/josephbk117/0ae30f1e4593a82fb6b6c27d620cddc3
 ## Booth リンク
 
 製品の購入は以下の BOOTH ページから：  
-https://tp-lab.booth.pm/items/3999585
+https://tp-lab.booth.pm/items/8588429

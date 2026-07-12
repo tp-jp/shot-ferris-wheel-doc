@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: "テキーラ観覧車",
+  title: "テキーラ観覧車 -ShotFerrisWheel-",
   tagline: "VRChatで楽しめる「テキーラ観覧車」のドキュメント",
   favicon: "img/favicon.ico",
 
@@ -62,6 +62,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts",
         },
+        blog: false,
         theme: {
           customCss: "./src/css/custom.css",
         },

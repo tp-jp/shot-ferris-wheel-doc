@@ -44,7 +44,7 @@ export default function Home(): ReactNode {
       description={translate({
         id: "homepage.description",
         message:
-          "VRChatで楽しめる「飲めるお酒」の公式ドキュメント。リアルな物理演算でグラスを傾けると中身が揺れ、飲むことができるアイテムです。",
+          "VRChatで楽しめる「テキーラ観覧車 -ShotFerrisWheel-」の公式ドキュメント。リアルな物理演算でグラスを傾けると中身が揺れ、飲むことができるアイテムです。",
         description: "The homepage description",
       })}
     >

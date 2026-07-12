@@ -17,18 +17,18 @@ const FeatureList: FeatureItem[] = [
         id="homepage.features.physics.title"
         description="Title for realistic physics feature"
       >
-        リアルな物理演算
+        観覧車ルーレット
       </Translate>
     ),
-    Svg: require("@site/static/img/undraw_wine-tasting_jnup.svg").default,
+    Svg: require("@site/static/img/undraw_amusement-park_j8fe.svg").default,
     description: (
       <>
         <Translate
           id="homepage.features.physics.description"
           description="Description for realistic physics feature"
         >
-          手に持ってグラスを傾けると中身が揺れ、さらに傾けると実際に中身が減ります。
-          VRChatでリアルなお酒体験を楽しめます。
+          ルーレットを回し、止まったショットグラスを飲む。
+          バーやパーティーワールドに最適なゲームギミック。
         </Translate>
       </>
     ),
@@ -69,7 +69,7 @@ const FeatureList: FeatureItem[] = [
           description="Description for cross-platform feature"
         >
           VRChatのPC版・Quest版の両方に対応。
-          幅広いユーザーがワールドで「飲めるお酒」を楽しめます。
+          幅広いユーザーがワールドで一緒に楽しめます。
         </Translate>
       </>
     ),
@@ -84,7 +84,7 @@ function Feature({ title, Svg, description }: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <p className={styles.featureDescription}>{description}</p>
       </div>
     </div>
   );
