@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.shot-ferris-wheel": {
+    "message": "Shot Ferris Wheel",
+    "description": "The label for category shot-ferris-wheel in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "TpLab",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "TpLab",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "ドキュメント",
+    "description": "Navbar item with label Documentation"
+  }
+}
