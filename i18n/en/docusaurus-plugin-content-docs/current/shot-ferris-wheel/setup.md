@@ -49,26 +49,41 @@ Place and use them individually only when needed.
 
 #### Available Prefabs
 
-| Category      | Prefab Name         | Description           | Notes                              |
-| ------------- | ------------------- | --------------------- | ---------------------------------- |
-| 📦 **Main**   | ShotFerrisWheel     | Tequila Ferris Wheel  | Main Tequila Ferris Wheel object   |
-| 🍾 **Bottle** | Bottle/TequilaBottle| Tequila bottle        | Use together with the shot glass   |
-| 🥃 **Glass**  | Glass/ShotGlass     | Shot glass            | Can be filled from Tequila bottle  |
+| Category      | Prefab Name          | Description          | Notes                             |
+| ------------- | -------------------- | -------------------- | --------------------------------- |
+| 📦 **Main**   | ShotFerrisWheel      | Tequila Ferris Wheel | Main Tequila Ferris Wheel object  |
+| 🍾 **Bottle** | Bottle/TequilaBottle | Tequila bottle       | Use together with the shot glass  |
+| 🥃 **Glass**  | Glass/ShotGlass      | Shot glass           | Can be filled from Tequila bottle |
 
 ### 3. Game Settings
 
 Configure settings in the Inspector at `TequilaFerrisWheel/Game/GameSettings`.
 
-| Setting Item         | Description               | Value              | Effect                                             |
-| -------------------- | ------------------------- | ------------------ | -------------------------------------------------- |
-| **Max Hit Count**    | Maximum number of hits    | Number (e.g., 3)   | Maximum number of hits configurable in game settings |
-| **Default Hit Count**| Initial value of hit count| Number (e.g., 1.0) | Initial hit count value in game settings          |
+| Setting Item            | Description                | Value                            | Effect                                               |
+| ----------------------- | -------------------------- | -------------------------------- | ---------------------------------------------------- |
+| **Max Hit Count**       | Maximum number of hits     | Number (e.g., 3)                 | Maximum number of hits configurable in game settings |
+| **Default Hit Count**   | Initial value of hit count | Number (e.g., 1.0)               | Initial hit count value in game settings             |
+| **Default Pickup Lock** | Initial pickup lock state  | Enabled/Disabled (e.g., Enabled) | Initial pickup lock value in game settings           |
 
 ## How to Use
 
 ### Basic Operation Steps
 
+#### 🎡 How to Start the Game
+
+You can start the game by pressing the "Game Start" button on the rear UI of the Tequila Ferris Wheel.
+
+#### 🎡 Game Flow
+
+1. Press the "Roulette START" button on the front side
+2. The roulette is executed, then drink from the glass selected by the result
+3. If it is not a winning result, press "Roulette START" again and repeat
+
 #### 🍾 Pour from bottle to glass
+
+:::warning Notice
+You cannot pour from the bottle into the glass during the game.
+:::
 
 1. **Pick up the bottle** - Grab the bottle in VR
 2. **Press the Use button** to remove the cap
