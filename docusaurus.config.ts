@@ -82,7 +82,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/shot-ferris-wheel-social-card.png",
+    image: "img/shot-ferris-wheel-social-card-v2.png",
     navbar: {
       title: "TpLab",
       logo: {
