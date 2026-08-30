@@ -8,11 +8,16 @@ description: Documentation for "Tequila Ferris Wheel"
 
 ## Overview
 
-"Tequila Ferris Wheel" is an interactive item where you set shot glasses, spin the roulette, and enjoy drinking from the shot glass where it stops.  
-By placing it in bars, clubs, event venues, party worlds, and similar spaces, you can easily create opportunities for social interaction.  
-It includes shot-glass attachment/detachment, roulette effects, hit detection, and game flow features, making it a VRChat gimmick that multiple users can enjoy casually.
+"Tequila Ferris Wheel" is a gimmick where you place shot glasses, spin the roulette, and enjoy the shot glass that stops in front of you.  
+By installing it in bars, clubs, event venues, party worlds, and other social spaces, you can easily create casual opportunities for interaction and conversation.  
+It includes shot-glass attachment/detachment, roulette effects, hit detection, and game progression, making it a VRChat gimmick that multiple people can enjoy together.
 
-This product supports both PC and Quest versions of VRChat.
+This product is compatible with both VRChat PC and Quest.
+
+You can try the actual product in the following world.
+
+CabaretClubDemoWorld
+https://vrchat.com/home/world/wrld_da495c9e-f273-45ca-b806-4bd94be9738a/info
 
 :::info Credits
 This product uses shaders and scripts by Joseph Kalathil for the liquid effects.

@@ -14,6 +14,11 @@ description: 「テキーラ観覧車」のドキュメント
 
 本商品は VRChat の PC / Quest の両方に対応しています。
 
+下記のワールドで実際の商品をお試しいただけます。
+
+CabaretClubDemoWorld
+https://vrchat.com/home/world/wrld_da495c9e-f273-45ca-b806-4bd94be9738a/info
+
 :::info クレジット
 本商品の液体には Joseph Kalathil さんのシェーダーとスクリプトを使用しています。
 https://gist.github.com/josephbk117/0ae30f1e4593a82fb6b6c27d620cddc3
