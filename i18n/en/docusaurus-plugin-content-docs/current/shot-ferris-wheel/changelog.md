@@ -7,10 +7,10 @@ description: Version update history for Tequila Ferris Wheel
 # Changelog
 
 :::info Latest Version
-The current latest version is **v1.0.0**. (Released 2026-09-11)
+The current latest version is **v1.0.0**. (Released 2026-09-14)
 :::
 
-## v1.0.0 (2026-09-04)
+## v1.0.0 (2026-09-14)
 
 🎉 **Initial Release**
 
